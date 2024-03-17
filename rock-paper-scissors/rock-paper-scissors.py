@@ -6,7 +6,7 @@ cpu_score = 0
 player_score = 0
 
 while True:
-  player = input("Rock, Paper or Scissors? and type 'end' if you want to quit. ").capitalize()
+  player = input("Rock, Paper or Scissors? and type 'end' if you want to quit.").capitalize()
   ## Conditions of Rock, Paper and Scissors
   
   if player == computer:
